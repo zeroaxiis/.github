@@ -1,50 +1,47 @@
 # ZeroAxiis
 
 <div align="center">
-    <img src="https://github.com/zeroaxiis/.github/blob/main/logo/ZeroAxiis%20Logo-1.png" alt="DSL Media Logo" width="250" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+    <img src="https://github.com/zeroaxiis/.github/blob/main/logo/ZeroAxiis%20Logo-1.png" alt="ZeroAxiis Logo" width="250" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
 </div>
 
 <div align="center">
-    <h2 style="font-family: 'Cinzel Decorative', serif; letter-spacing: 3px; color: #3e3a3a; text-shadow: 1px 1px 2px rgba(0,0,0,0.2);">Where Dreams Collide with Creativity</h2>
+    <h2 style="font-family: 'Cinzel Decorative', serif; letter-spacing: 3px; color: #3e3a3a; text-shadow: 1px 1px 2px rgba(0,0,0,0.2);">Where Innovation Meets Open Collaboration</h2>
 </div>
 
 ## **About Us**
-At **Dead Soul Media (DSL Media)**, art and innovation converge to create worlds that captivate, inspire, and transcend the ordinary. We are not just developers or animators; we are architects of imagination, crafting immersive experiences that linger in the soul.  
-Driven by a passion for the aesthetic and a relentless pursuit of perfection, we transform stories into breathtaking realities. From visually stunning games to evocative animations, every frame and pixel bears the mark of our artistry.
+At **ZeroAxiis**, we are a group of passionate creators exploring emerging technologies. Our mission is to build innovative tools and solutions that can make a positive contribution to the world. We believe in the power of **open-source** to foster collaboration and bring new ideas to life.
+
+We strive to create an environment where developers, thinkers, and creators can come together to solve real-world problems and shape the future of technology.
 
 ## **Our Vision**
-To sculpt the future of entertainment by merging innovation with timeless artistry, leaving behind a legacy of experiences that resonate through generations.
+To create groundbreaking solutions and technologies that empower individuals and communities, leaving a lasting impact on the world.
 
 ## **Our Focus**
 
-### 🎮 **Game Development**
-We forge adventures that challenge, inspire, and immerse players in realms brimming with life, beauty, and meaning.
+### 🛠️ **Innovative Tools**
+We create cutting-edge software solutions designed to solve everyday problems and drive progress.
 
-### 🎥 **Animations**
-Through the delicate dance of motion and story, we bring characters and worlds to life, each a masterpiece of emotion and detail.
+### 🌐 **Emerging Technologies**
+From AI to blockchain, we explore and develop new technologies that will shape the future.
 
-### 🎨 **Creative Entertainment**
-Exploring the unexplored, we push the boundaries of storytelling across diverse mediums, reimagining what entertainment can be.
+### 🤝 **Open-Source Collaboration**
+We believe in the power of community. Everything we create will be open-source, inviting contributions from developers around the globe.
 
 ## **Our Philosophy**
 
-- **Aesthetic Mastery**: Each project is a canvas, painted with meticulous care and boundless creativity.
-- **Emotion in Innovation**: We blend technology and storytelling to craft experiences that evoke profound connections.
-- **Collaborative Genius**: A sanctuary for artists, developers, and dreamers to create in harmony.
+- **Open Collaboration**: We believe in working together to create something bigger than the sum of its parts.
+- **Innovation with Purpose**: Our focus is on creating technologies that solve real problems and make a difference.
+- **Transparency and Learning**: We welcome all ideas and believe in the power of continuous learning through open-source.
 
 <div align="center">
-    <h3 style="font-family: 'Dancing Script', cursive; color: #6b4f4f; font-size: 1.3em; text-shadow: 1px 1px 3px rgba(0,0,0,0.2);">"Every pixel tells a story, every frame holds a dream."</h3>
+    <h3 style="font-family: 'Dancing Script', cursive; color: #6b4f4f; font-size: 1.3em; text-shadow: 1px 1px 3px rgba(0,0,0,0.2);">"Innovation is built on collaboration, and we’re just getting started."</h3>
 </div>
-
-## **Join the Journey**
-Are you a visionary game developer, a gifted artist, or a storyteller with worlds to share? Join **Dead Soul Media** and become part of a movement that celebrates creativity and innovation in its purest form.  
-Dive into our projects and let your imagination take flight at **[DSL Media](https://github.com/DeadSoulMedia)**.
-
+ 
 ### **Stay Connected**
-- **GitHub**: [github.com/DeadSoulMedia](https://github.com/DeadSoulMedia)
-- **Email**: contact@dslmedia.com
+- **GitHub**: [github.com/ZeroAxiis](https://github.com/ZeroAxiis)
+- **Email**: contact@zeroaxiis.com
 - **Socials**: Coming soon...
 
 <div align="center">
-    <h4 style="font-family: 'Cinzel', serif; color: #3e3a3a; letter-spacing: 1.5px; text-transform: uppercase;">Dead Soul Media – The Art of Entertainment</h4>
+    <h4 style="font-family: 'Cinzel', serif; color: #3e3a3a; letter-spacing: 1.5px; text-transform: uppercase;">ZeroAxiis – Innovating Together</h4>
 </div>
