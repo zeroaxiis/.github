@@ -1,7 +1,7 @@
 # ZeroAxiis
 
 <div align="center">
-    <img src="https://github.com/DeadSoulMedia/.github/blob/main/logo/DSL%20Media%20Logo-1.png" alt="DSL Media Logo" width="250" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+    <img src="https://github.com/zeroaxiis/.github/blob/main/logo/ZeroAxiis%20Logo-1.png" alt="DSL Media Logo" width="250" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
 </div>
 
 <div align="center">
