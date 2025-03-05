@@ -39,8 +39,8 @@ We believe in the power of community. Everything we create will be open-source, 
  
 ### **Stay Connected**
 - **GitHub**: [github.com/ZeroAxiis](https://github.com/ZeroAxiis)
-- **Email**: contact@zeroaxiis.com
-- **Socials**: Coming soon...
+- **Email**: axiiszero@gmail.com
+- **Socials**: [LinkedIn](https://www.linkedin.com/company/105963621)
 
 <div align="center">
     <h4 style="font-family: 'Cinzel', serif; color: #3e3a3a; letter-spacing: 1.5px; text-transform: uppercase;">ZeroAxiis – Innovating Together</h4>
