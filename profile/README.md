@@ -86,7 +86,7 @@ https://github.com/ZeroAxiis
 https://www.linkedin.com/company/zero-axiis
 
 **Email**
-[axiiszero@gmail.com](mailto:axiiszero@gmail.com)
+[contact@zeroaxiis.tech](mailto:contact@zeroaxiis.tech)
 
 <div align="center">
 
