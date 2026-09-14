@@ -4,94 +4,72 @@
 
 <img src="https://github.com/zeroaxiis/.github/blob/main/logo/ZeroAxiis%20Logo-1.png" width="220" alt="ZeroAxiis Logo">
 
-# Where Systems Become Products
-
-### Engineering ideas into software, infrastructure, and intelligent systems.
+### Everything Starts at Zero.
 
 </div>
 
-Technology is full of ideas.
+## About
 
-Some remain concepts.
-Some become projects.
-Very few become products.
+ZeroAxiis is a software and technology company building technology for individuals, businesses, and organizations.
 
-**ZeroAxiis** exists to bridge that gap.
+We work on technology at different stages — from bringing new ideas to life to improving and advancing existing technology. Our work spans projects, products, and technical challenges of different kinds, with an emphasis on building things that are useful, reliable, and built to evolve.
 
-We build software, infrastructure, developer tools, and intelligent systems with a focus on strong engineering, practical innovation, and long-term thinking. Our goal is simple: transform ambitious ideas into reliable technology that creates real value.
+Alongside our work with others, ZeroAxiis also explores and develops technology of its own.
 
-## What We Build
+## What We Do
 
-### Backend Systems
+We build software and technology around real problems, ideas, and opportunities.
 
-Scalable APIs, microservices, event-driven architectures, automation platforms, and distributed systems.
+Our work can begin with something entirely new, an existing system that needs to evolve, or a problem that requires a technical solution.
 
-### Infrastructure
+Rather than limiting ourselves to a fixed category of technology, we work according to what the problem requires.
 
-Cloud-native platforms, deployment pipelines, observability solutions, and modern operational tooling.
+## What You'll Find Here
 
-### Intelligent Software
+The ZeroAxiis GitHub organization contains the software and technology we build and maintain.
 
-AI-powered applications, automation systems, and tools designed to augment human capabilities.
+This includes:
 
-### Open Source
+- Open-source projects
+- Internal and supporting software
+- Developer tools and utilities
+- Experiments and research
+- Products and projects developed by ZeroAxiis
 
-Frameworks, libraries, utilities, and experimental technologies shared openly with the community.
+Each repository has its own purpose, documentation, and development direction.
 
-## Our Approach
+## Open Source
 
-We believe great technology is built on a strong foundation.
+Some of what we build is made available openly.
 
-**Build with purpose**
-Every project should solve a real problem.
+Our open-source projects are developed, maintained, and shared through GitHub so that others can use them, learn from them, contribute to them, or build upon them.
 
-**Think in systems**
-Strong products are built on strong architecture.
+## Our Work
 
-**Stay curious**
-Innovation begins with experimentation and continuous learning.
+ZeroAxiis is not built around a single product or a single area of technology.
 
-**Share openly**
-Knowledge grows when it is accessible to everyone.
+We explore different ideas, work on different problems, and develop technology that can grow into something larger.
 
-## Areas of Exploration
+Some projects may remain small.
 
-* Artificial Intelligence
-* Backend Engineering
-* Distributed Systems
-* Cloud Infrastructure
-* Developer Experience
-* Automation Platforms
-* Open Source Technologies
-* Emerging Technologies
+Some may become products.
 
-## Our Vision
+Some may become open source.
 
-To create technology that empowers builders, businesses, and communities through scalable systems, intelligent automation, and open collaboration.
-
-## Join The Journey
-
-Whether you're an engineer, designer, researcher, student, or simply someone who loves technology, we welcome people who are passionate about building meaningful things.
-
-The future is not built by individuals working alone.
-
-It is built by people creating together.
+The GitHub organization is where part of that work lives.
 
 ## Connect
 
-**GitHub**
-https://github.com/ZeroAxiis
+**Website:** https://www.zeroaxiis.tech/
 
-**LinkedIn**
-https://www.linkedin.com/company/zero-axiis
+**LinkedIn:** https://www.linkedin.com/company/zero-axiis
 
-**Email**
-[contact@zeroaxiis.tech](mailto:contact@zeroaxiis.tech)
+**GitHub:** https://github.com/ZeroAxiis
 
 <div align="center">
 
 ### ZeroAxiis
 
-#### Build. Learn. Share. Repeat.
+**Everything Starts at Zero.**
 
 </div>
