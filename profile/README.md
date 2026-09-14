@@ -1,6 +1,6 @@
-# ZeroAxiis
-
 <div align="center">
+
+# ZeroAxiis
 
 <img src="https://github.com/zeroaxiis/.github/blob/main/logo/ZeroAxiis%20Logo-1.png" width="220" alt="ZeroAxiis Logo">
 
@@ -10,61 +10,42 @@
 
 ## About
 
-ZeroAxiis is a software and technology company building technology for individuals, businesses, and organizations.
+ZeroAxiis is a software and technology company building and advancing technology for individuals, businesses, and organizations.
 
-We work on technology at different stages — from bringing new ideas to life to improving and advancing existing technology. Our work spans projects, products, and technical challenges of different kinds, with an emphasis on building things that are useful, reliable, and built to evolve.
+We work with ideas, products, and technology at different stages — from creating something new to improving what already exists. Our work is driven by real needs, technical challenges, and opportunities to make technology more capable and useful.
 
-Alongside our work with others, ZeroAxiis also explores and develops technology of its own.
+## What We Work On
 
-## What We Do
+ZeroAxiis works across software and technology, taking on projects and problems that require thoughtful engineering and practical solutions.
 
-We build software and technology around real problems, ideas, and opportunities.
+Some work begins with an idea. Some begins with an existing system. Some begins with a problem that needs solving.
 
-Our work can begin with something entirely new, an existing system that needs to evolve, or a problem that requires a technical solution.
+We do not limit ourselves to a single type of technology or a fixed set of tools. The technology follows the problem.
 
-Rather than limiting ourselves to a fixed category of technology, we work according to what the problem requires.
+## On GitHub
 
-## What You'll Find Here
+This organization is where we publish and maintain part of the technology we build.
 
-The ZeroAxiis GitHub organization contains the software and technology we build and maintain.
+Here you will find projects developed by ZeroAxiis, including open-source software, developer tools, experiments, utilities, and other work that we choose to share.
 
-This includes:
-
-- Open-source projects
-- Internal and supporting software
-- Developer tools and utilities
-- Experiments and research
-- Products and projects developed by ZeroAxiis
-
-Each repository has its own purpose, documentation, and development direction.
+Each repository has its own purpose and direction, with documentation and development details maintained alongside the project.
 
 ## Open Source
 
-Some of what we build is made available openly.
+Open source is an important part of our work.
 
-Our open-source projects are developed, maintained, and shared through GitHub so that others can use them, learn from them, contribute to them, or build upon them.
+When we build something that can be useful beyond its original purpose, we may release it publicly so that others can use it, learn from it, contribute to it, and build upon it.
 
-## Our Work
+## Explore
 
-ZeroAxiis is not built around a single product or a single area of technology.
+**Website**
+https://www.zeroaxiis.tech/
 
-We explore different ideas, work on different problems, and develop technology that can grow into something larger.
+**LinkedIn**
+https://www.linkedin.com/company/zero-axiis
 
-Some projects may remain small.
-
-Some may become products.
-
-Some may become open source.
-
-The GitHub organization is where part of that work lives.
-
-## Connect
-
-**Website:** https://www.zeroaxiis.tech/
-
-**LinkedIn:** https://www.linkedin.com/company/zero-axiis
-
-**GitHub:** https://github.com/ZeroAxiis
+**GitHub**
+https://github.com/ZeroAxiis
 
 <div align="center">
 
